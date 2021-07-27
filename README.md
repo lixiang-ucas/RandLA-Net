@@ -17,6 +17,7 @@ python utils/data_prepare_dfc.py
 
 training:
 python main_isprs.py --mode train --gpu 0
+
 evaluation:
 python main_isprs.py --mode test --gpu 0
 
@@ -25,5 +26,6 @@ python main_isprs.py --mode test --gpu 0
 
 training:
 python main_dfc.py --mode train --gpu 0
+
 evaluation:
 python main_dfc.py --mode test --gpu 0

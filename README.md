@@ -5,7 +5,7 @@ This is the source code for our paper <b></b>.
 
 Introduction
 ------------
-This is the source code for our paper **A Novel Semi-Supervised Method for Airborne LiDAR Point Cloud Classification**. This repo includes the code for conducting experiments using RandLA-Net as the backbone network.
+This is the source code for our paper **A Novel Semi-Supervised Method for Airborne LiDAR Point Cloud Classification**. This repo only includes the code for conducting experiments using RandLA-Net as the backbone network. Our original repo using [DANCE-Net](https://github.com/lixiang-ucas/DANCE-NET) as backbone network can be found at [SemiALS-Net](https://github.com/lixiang-ucas/SemiALS-Net).
 
 ## Installation
 Please refer to official [RandLA-Net](https://github.com/QingyongHu/RandLA-Net).
